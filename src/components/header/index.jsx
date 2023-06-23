@@ -5,7 +5,8 @@ export function Header(){
 
   return (
       <Container>
-        <Profile> 
+        <Profile to="/profile"> 
+          
           <img src="https://github.com/marcelomotadev.png" alt="Foto do usuário" />
 
           <div>
